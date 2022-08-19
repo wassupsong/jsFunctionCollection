@@ -1,5 +1,7 @@
 jsFunctionCollection
+
 Comfortable javascript function collection
+
 author : wassupsong
 
 search category keyword
